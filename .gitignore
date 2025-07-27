@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+pkg install python
+python3 -m pip install requests
+pkg install git
+python3 
+spam.py
+https://freeimage.host/i/FMUCZfp
+
